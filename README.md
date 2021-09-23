@@ -1,7 +1,7 @@
 # Gorillas-Graphql-ReactiveDb-R2DBC
 
-Download attached zip file
-Extract it and change directory to kush-demo/
-Run mvn clean install
-Run KushDemoApplication.java in Eclipse or Intellij
-Use readMe.txt as client to invoke the graphql apis.
+1) Download attached zip file
+2) Extract it and change directory to kush-demo/
+3) Run mvn clean install
+4) Run KushDemoApplication.java in Eclipse or Intellij
+5) Use readMe.txt as client to invoke the graphql apis.
